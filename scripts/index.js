@@ -1,4 +1,4 @@
-Hooks.on("getChatLogEntryContext", (html, options) => {
+Hooks.once("getChatLogEntryContext", (html, options) => {
   const indexOfApplyHealing = options.findIndex(
     (option) => option.name === "Apply Healing"
   );
