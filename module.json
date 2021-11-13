@@ -1,13 +1,13 @@
 {
-  "name": "dnd5e-expanded-contextmenu-options",
-  "title": "DnD5e Expanded ContextMenu Options",
-  "description": "Adds additional options to the ChatLog ContextMenu.",
+  "name": "dnd5e-expanded-chat-log-entry-context-menu-options",
+  "title": "DnD5e Expanded ChatLogEntry Context Menu Options",
+  "description": "Adds additional options to the ChatLogEntry Context Menu.",
   "version": "1.0.0",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.8.9",
   "esmodules": ["./scripts/index.js"],
-  "url": "https://github.com/BrettLargent/dnd5e-expanded-contextmenu-options",
-  "manifest": "https://raw.githubusercontent.com/BrettLargent/dnd5e-expanded-contextmenu-options/main/module.json",
-  "download": "https://github.com/BrettLargent/dnd5e-expanded-contextmenu-options/archive/refs/heads/main.zip"
+  "url": "https://github.com/BrettLargent/dnd5e-expanded-chat-log-entry-context-menu-options",
+  "manifest": "https://raw.githubusercontent.com/BrettLargent/dnd5e-expanded-chat-log-entry-context-menu-options/main/module.json",
+  "download": "https://github.com/BrettLargent/dnd5e-expanded-chat-log-entry-context-menu-options/archive/refs/heads/main.zip"
 }
