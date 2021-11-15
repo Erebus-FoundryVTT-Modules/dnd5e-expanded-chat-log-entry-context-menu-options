@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.8.9",
   "esmodules": ["./scripts/index.js"],
-  "url": "https://github.com/BrettLargent/dnd5e-expanded-chat-log-entry-context-menu-options",
-  "manifest": "https://raw.githubusercontent.com/BrettLargent/dnd5e-expanded-chat-log-entry-context-menu-options/main/module.json",
-  "download": "https://github.com/BrettLargent/dnd5e-expanded-chat-log-entry-context-menu-options/archive/refs/heads/main.zip"
+  "url": "https://github.com/Erebus-FoundryVTT-Modules/dnd5e-expanded-chat-log-entry-context-menu-options",
+  "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-expanded-chat-log-entry-context-menu-options/main/module.json",
+  "download": "https://github.com/Erebus-FoundryVTT-Modules/dnd5e-expanded-chat-log-entry-context-menu-options/archive/refs/heads/main.zip"
 }
