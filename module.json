@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9.245",
   "esmodules": ["./scripts/index.js"],
   "url": "https://github.com/Erebus-FoundryVTT-Modules/dnd5e-expanded-chat-log-entry-context-menu-options",
   "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-expanded-chat-log-entry-context-menu-options/main/module.json",
